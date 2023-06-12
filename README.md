@@ -6,4 +6,6 @@ Alguns códigos e CSV's utilizados na capacitação em Python da FarmacJr na UFR
 
 - Documentação Pandas: [Tutoriais de utilização](https://pandas.pydata.org/docs/)
 
+- Tabela TACO Original: CFN (Conselho Federal de Nutricionistas), [Tabela Originl](https://pandas.pydata.org/docs/)
+
 # Autor: Wagner Martins
