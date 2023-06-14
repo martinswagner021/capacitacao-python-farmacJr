@@ -8,5 +8,3 @@ Alguns códigos e CSV's utilizados na capacitação de Python da FarmacJr na UFR
 - Documentação Pandas: [Tutoriais de utilização](https://pandas.pydata.org/docs/)
 
 - Tabela TACO Original: Conselho Federal de Nutricionistas, [Tabela Brasileira de Composição de Alimentos](https://pandas.pydata.org/docs/)
-
-# Autor: Wagner Martins
