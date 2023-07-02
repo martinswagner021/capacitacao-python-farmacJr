@@ -1,6 +1,8 @@
 # Capacitacao Python FarmacJr
 Alguns códigos e CSV's utilizados na capacitação de Python da FarmacJr na UFRJ - Macaé.
-- Link para o material do [Google Colab Notebook](https://colab.research.google.com/drive/1kiEd3tSv04t-jhUKQk7DryhZSWmDwDIh?usp=sharing)
+- Link para os materiais: 
+  - [Repositório do Github](https://github.com/martinswagner021/capacitacao-python-farmacJr)
+  - [Google Colab Notebook](https://colab.research.google.com/drive/1kiEd3tSv04t-jhUKQk7DryhZSWmDwDIh?usp=sharing)
 
 # Referências
 - Documentação Pandas: [Tutoriais de utilização](https://pandas.pydata.org/docs/)
